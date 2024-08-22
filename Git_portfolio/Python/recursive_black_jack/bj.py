@@ -1,5 +1,5 @@
 import telebot
-bot = telebot.TeleBot(token='6409595177:AAHOXWY5j49TMPDNtvHjWkWf1koZdUHLwZw')
+bot = telebot.TeleBot(token='') #добавить токен
 from telebot import types
 from multiprocessing.dummy import Pool
 pool = Pool(20)
